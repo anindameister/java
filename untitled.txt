@@ -1,0 +1,18 @@
+ System.out.printf("you can say ass %d times", 5*2).println()
+ 
+ python
+ print("you can say ass",5*2,"times")
+ 
+ System.out.printf("you can say ass %d time, say it the %d time and you'll be slapped %d times",3%2, 4/2, 27/9).println()
+ you can say ass 1 time, say it the 2 time and you'll be slapped 3 times
+ 
+ System.out.printf("you can say ass %d time, say it the %d time and you'll be slapped %d times",3%2, 4/2, 27/9)
+ you can say ass 1 time, say it the 2 time and you'll be slapped 3 times$8 ==> java.io.PrintStream@18be83e4
+ 
+int a=10; int b =5; System.out.printf("%d * %d = %d" ,a,b,a*b).println()
+a ==> 10
+b ==> 5
+10 * 5 = 50
+
+%d = integer and not floats(%f)
+%s = string
